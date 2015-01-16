@@ -22,7 +22,6 @@ class NotesController < ApplicationController
   private
 
   def find_note
-
   end
 
   def note_params
