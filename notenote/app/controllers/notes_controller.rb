@@ -22,7 +22,7 @@ class NotesController < ApplicationController
     end
   end
 
-  def edit  
+  def edit
   end
 
   def update
